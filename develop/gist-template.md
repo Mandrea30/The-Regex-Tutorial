@@ -75,7 +75,7 @@ Are also known as lookarounds that are considered as assertions in which don't d
 * [] matches anything within the brackets
 * a-z0-9 matches any lower-case-alphabet-letter from a to z & any numeric number from 0 to 9
 * _\.- matches these characters
-* + a quantifier that matches as many times as possible
+* The plus (+) sign is a quantifier that matches as many times as possible
 
 **~2:** @ = matches the @ symbol
 
@@ -85,7 +85,7 @@ Are also known as lookarounds that are considered as assertions in which don't d
 * /d matches any mumeric digit
 * a-z matches any lower-case-alphabet-letter from a to z
 * \.- matches these characters
-* + a quantifier that matches as many times as possible
+* The plus (+) sign is a quantifier that matches as many times as possible
 
 **~4:** ([a-z\.]{2,6})$/
 * () parenthesis creates a group

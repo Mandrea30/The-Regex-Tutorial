@@ -1,4 +1,4 @@
-# REGEX-TUTORIAL
+# The-Regex-Tutorial
 A regular expression or regex is a string of text-patterns or text-hyrogliphocs that help match, locate and manage text. Regex is supported in all the scripting languages such as Perl, Python, PHP, JavaScript as well as general purpose programming languages such as Java and Word for searching texts.
 
 ## SUMMARY

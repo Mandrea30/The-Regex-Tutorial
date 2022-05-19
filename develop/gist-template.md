@@ -72,8 +72,9 @@ Are captured-matched-input-strings saved in memory for later recall. The back-re
 Are also known as lookarounds that are considered as assertions in which don't deploy match-characters, they only indicate if there was a match or not. 
 
 ### REGEX-BREAK-DOWN-EXPLANATION
+---
 **REGEX-EMAIL-EXAMPLE: /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/**
-**~1:** /^([a-z0-9_\.-]+)
+**1:** /^([a-z0-9_\.-]+)
 * / begins with regex boundary
 * ^ anchor asserts the position at the start of the string
 * () parenthesis creates a group
@@ -82,9 +83,9 @@ Are also known as lookarounds that are considered as assertions in which don't d
 * _\.- matches these characters
 * The plus (+) sign is a quantifier that matches as many times as possible
 
-**~2:** @ = matches the @ symbol
+**2:** @ = matches the @ symbol
 
-**~3:** ([\da-z\.-]+)
+**3:** ([\da-z\.-]+)
 * () parenthesis creates a group
 * [] matches anything within the brackets
 * /d matches any mumeric digit
@@ -92,7 +93,7 @@ Are also known as lookarounds that are considered as assertions in which don't d
 * \.- matches these characters
 * The plus (+) sign is a quantifier that matches as many times as possible
 
-**~4:** ([a-z\.]{2,6})$/
+**4:** ([a-z\.]{2,6})$/
 * () parenthesis creates a group
 * [] matches anything within the brackets
 * a-z matches any lower-case-alphabet-letter from a to z

@@ -1,8 +1,13 @@
 # The-Regex-Tutorial
-A regular expression or regex is a string of text-patterns or text-hyrogliphocs that help match, locate and manage text. Regex is supported in all the scripting languages such as Perl, Python, PHP, JavaScript as well as general purpose programming languages such as Java and Word for searching texts.
+The following is a tutorial on Regular Expressions or Regex. Their use, the companents, and a breif example explanation.
 
 ## SUMMARY
-A regular expression or also known as regex, is a sequence of hyrogliphoc-characters such as numbers, letters, percent-sign, arrows, dashes, ect., that defines a specific search pattern. Regex are extremely useful in finding and extracting data from any text by performing a specific search pattern using the hyrogliphio-characters and can be used to set input-parameters for users such as emails, passwords, ect. 
+A Regular Expression or Regex, is a string of text patterns which help match, locate and manage text.
+There are several scripting languages that support regex, including: Javascript, PHP, Perl, Python. Other general purpose programming languages also suppport regex, like Microsoft Word and Java.
+
+A Regex expression text contain a sequence of numbers, letter, and special characters such as percentage signs, arrows, dashes, etc. that define a specific search pattern.
+Regex are specially useful in finding and extracting data from any text by searching text patterns and can be used to set input parameters for users, like emails, passwords, etc.
+
 
 ## TABLE OF CONTENTS
 * Anchors

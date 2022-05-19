@@ -8,7 +8,7 @@ There are several scripting languages that support regex, including: Javascript,
 A Regex expression text contain a sequence of numbers, letter, and special characters such as percentage signs, arrows, dashes, etc. that define a specific search pattern.
 Regex are specially useful in finding and extracting data from any text by searching text patterns and can be used to set input parameters for users, like emails, passwords, etc.
 
-
+--- 
 ## TABLE OF CONTENTS
 * Anchors
 * Quantifiers

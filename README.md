@@ -19,4 +19,6 @@ Regex are specially useful in finding and extracting data from any text by searc
 ## Gist Link.
 For a detailed explanation, please visit: https://gist.github.com/Mandrea30 
 
-## Video Tutorial
+## Resources
+- Canva Module 17
+- Youtube Tutorials
